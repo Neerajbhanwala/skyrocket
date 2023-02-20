@@ -9,31 +9,31 @@ function Footer() {
   <div class="flex">
     <section class="flex-content padding_1x">
       <h3>Top Products</h3>
-      <a href="#">Managed Website</a>
-      <a href="#">Manage Reputation</a>
-      <a href="#">Power Tools</a>
-      <a href="#">Marketing Service</a>
+      <a href="#hom">Managed Website</a>
+      <a href="#hom">Manage Reputation</a>
+      <a href="#hom">Power Tools</a>
+      <a href="#hom">Marketing Service</a>
     </section>
     <section class="flex-content padding_1x">
       <h3>Quick Links</h3>
-      <a href="#">Jobs</a>
-      <a href="#">Brand Assets</a>
-      <a href="#">Investor Relations</a>
-      <a href="#">Terms of Service</a>
+      <a href="#hom">Jobs</a>
+      <a href="#hom">Brand Assets</a>
+      <a href="#hom">Investor Relations</a>
+      <a href="#hom">Terms of Service</a>
     </section>
     <section class="flex-content padding_1x">
       <h3>Features</h3>
-      <a href="#">Jobs</a>
-      <a href="#">Brand Assets</a>
-      <a href="#">Investor Relations</a>
-      <a href="#">Terms of Service</a>
+      <a href="#hom">Jobs</a>
+      <a href="#hom">Brand Assets</a>
+      <a href="#hom">Investor Relations</a>
+      <a href="#hom">Terms of Service</a>
     </section>
     <section class="flex-content padding_1x">
       <h3>Resources</h3>
-      <a href="#">Guides</a>
-      <a href="#">Research</a>
-      <a href="#">Experts</a>
-      <a href="#">Agencies</a>
+      <a href="#hom">Guides</a>
+      <a href="#hom">Research</a>
+      <a href="#hom">Experts</a>
+      <a href="#hom">Agencies</a>
     </section>
     <section class="flex-content padding_1x">
       <h3>Newsletter</h3>
