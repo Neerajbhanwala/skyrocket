@@ -11,6 +11,7 @@ function Contact() {
 3m3!1m2!1s0x390dc00627442355%3A0x9544981116768ca8!2sKasandi%2C%20Haryana%201
 31305!5e1!3m2!1sen!2sin!4v1676829379425!5m2!1sen!2sin" 
     width="100%"
+    title="kasandi"
     height="450" 
     style={{border:0}}
     allowFullScreen="" 
